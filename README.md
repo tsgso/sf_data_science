@@ -1,2 +1,2 @@
-# sf_data_science
-SF homework
+# My DataSciencce projects
+From the [GitHub] (https://github.com/tsgso/sf_data_science.git)
