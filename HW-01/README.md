@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/tsgso/sf_data_science/blob/main/HW-01/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/tsgso/sf_data_science/blob/main/HW-01/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/tsgso/sf_data_science/blob/main/HW-01/README.md#Какой-кейс-решаем)
 
 [3. Выводы](https://github.com/tsgso/sf_data_science/blob/main/HW-01/README.md#Выводы)
 
